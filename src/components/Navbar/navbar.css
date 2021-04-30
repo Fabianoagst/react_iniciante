@@ -1,0 +1,7 @@
+.navbar {
+  display: flex;
+  background-color: rgb(12, 161, 147);
+  color: black;
+  padding: 8px;
+  font-weight: bold;
+}
